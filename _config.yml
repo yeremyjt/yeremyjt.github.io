@@ -57,6 +57,7 @@ author:
   youtube: lajtul   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
+  soundcloud: yeremyjt
 
 # Select which links to show in the footer
 footer-links-active:
@@ -67,14 +68,15 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
+  soundcloud: true
 
 # Select which share links to show in posts
 share-links-active:
