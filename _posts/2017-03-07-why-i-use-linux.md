@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I choose Linux
-subtitle: Because I love great software
+subtitle: Because whod doesn't like great free stuff?
 tags: [linux, ubuntu]
 ---
 
@@ -12,7 +12,7 @@ I also happen to love Unity.
 
 Linux is fast, really fast. I run on a Macbook Pro 2015, which is supposed to be a fast machine, but my OSX is just way
 too slow. I also **love** the Linux terminal. It opens instantaneously and it's extremely powerful. It puts
-Windows' command line program to shame.
+Windows' command line program to shame. Also, it's completely **free**.
 
 I was hesitant to make the switch at first because I thought I wouldn't be able to be productive at work, because
 we still rely heavily on Microsoft, especially on communication applications like Outlook and Skype. It turns out
