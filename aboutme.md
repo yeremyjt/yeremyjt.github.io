@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is Yeremy Turcios?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I came to America in 2009, graduated from Brigham Young University (Go Cougs!... jk, I dont' care about football)
+and I married the most wonderful woman on the planet. I am a father to a cute, playful boy who makes me very happy
+(and doesn't let me watch movies peacefully), I am a software engineer, and I am a musician. I love programming,
+playing the piano, recording music, biking, running, swimming, hiking, and reading. I'm passionate about learning,
+particularly computer science topics, history, astronomy, and all things science. I like to think I'm a friendly guy,
+but I am usually not friends with people who think they are better than others. Thanks for checking out this site!
