@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I choose Linux
-subtitle: Because whod doesn't like great free stuff?
+subtitle: Because who doesn't like great free stuff?
 tags: [linux, ubuntu]
 ---
 
